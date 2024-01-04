@@ -1,10 +1,12 @@
-<div style="margin-bottom:10px">
-<img src="../figures/Learning Phrase Representations using RNN Encoder–Decoder for Statistical Machine Translation-0.png" style="display:block;margin-left:auto;margin-right:auto;margin-bottom:10px;width:800px"/>
+*1st Jan 2024, Phong Nguyen*
 
-<div style="display: flex; justify-content: space-between;">
+<div>
+<p align="center">
+  <img src="../figures/Learning Phrase Representations using RNN Encoder–Decoder for Statistical Machine Translation-0.png" style="display:block;width:800px"/>
+</p>
+
 <a href='https://arxiv.org/abs/1406.1078'><img src='https://img.shields.io/badge/dynamic/json?url=https://api.semanticscholar.org/graph/v1/paper/0b544dfe355a5070b60986319a3f51fb45d1348e?fields=citationCount&query=citationCount&label=EMNLP%202014&prefix=citation%20'/></a>
-<i>1st Jan 2024, Phong Nguyen</i>
-</div>
+
 </div>
 
 - This is probably the earliest paper that applies neural networks for machine translation.
@@ -14,4 +16,6 @@
 - For the choice of RNN, this paper introduces GRU (gated recurrent unit) as a comparable alternative to LSTM.
 - This is not an end-to-end machine translation model. The model is used to calculate probability of a pair of source and target phrases, which is then used as an additional feature in an SMT system.
 
-<img src="../figures/Learning Phrase Representations using RNN Encoder–Decoder for Statistical Machine Translation-1.png" style="display:block;margin-left:auto;margin-right:auto;width:400px" />
+<p align="center">
+  <img src="../figures/Learning Phrase Representations using RNN Encoder–Decoder for Statistical Machine Translation-1.png" style="display:block;margin-left:auto;margin-right:auto;width:400px" />
+</p>
