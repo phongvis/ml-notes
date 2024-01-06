@@ -14,5 +14,5 @@
 - The paper presents hard attention and soft attention. The former focuses on a single feature; whereas the latter smoothly focuses all on features. Hard attention gave better result in their experiments but was harder to train. 
 
 <p align="center">
-  <img src="../figures/Show, Attend and Tell - Neural Image Caption Generation with Visual Attention-1.png" style="width:400px"/>
+  <img src="../figures/Show, Attend and Tell - Neural Image Caption Generation with Visual Attention-1.png" style="width:600px"/>
 </p>
