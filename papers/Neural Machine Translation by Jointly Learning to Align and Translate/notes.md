@@ -2,7 +2,7 @@
 
 <div>
 <p align="center">
-  <img src="../figures/Neural Machine Translation by Jointly Learning to Align and Translate-0.png" style="width:800px"/>
+  <img src="figure1.png" style="width:800px"/>
 </p>
 
 <a href='https://arxiv.org/abs/1411.4555'><img src='https://img.shields.io/badge/dynamic/json?url=https://api.semanticscholar.org/graph/v1/paper/fa72afa9b2cbc8f0d7b05d52548906610ffbb9c5?fields=citationCount&query=citationCount&label=ICLR%202015&prefix=citation%20'/></a>
@@ -18,5 +18,5 @@
 - Attention score is parameterized as a feedforward neural network (a matrix multiplication followed by a non-linear and a vector multiplication to get a scalar): $$score(s,h)=v^\top tanh(Ws+Uh)$$
 
 <p align="center">
-  <img src="../figures/Neural Machine Translation by Jointly Learning to Align and Translate-1.png" style="width:400px"/>
+  <img src="figure2.png" style="width:400px"/>
 </p>
