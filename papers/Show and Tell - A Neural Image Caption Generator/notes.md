@@ -2,7 +2,7 @@
 
 <div>
 <p align="center">
-  <img src="../figures/Show and Tell - A Neural Image Caption Generator-0.png" style="width:800px"/>
+  <img src="figure1.png" style="width:800px"/>
 </p>
 
 <a href='https://arxiv.org/abs/1411.4555'><img src='https://img.shields.io/badge/dynamic/json?url=https://api.semanticscholar.org/graph/v1/paper/d4dc1012d780e8e2547237eb5a6dc7b1bf47d2f0?fields=citationCount&query=citationCount&label=CVPR%202015&prefix=citation%20'/></a>
@@ -15,5 +15,5 @@
 - The paper found that adding the image vector to each time step performs worse than just the initial one.
 
 <p align="center">
-  <img src="../figures/Show and Tell - A Neural Image Caption Generator-1.png" style="width:400px"/>
+  <img src="figure2.png" style="width:400px"/>
 </p>

@@ -2,7 +2,7 @@
 
 <div>
 <p align="center">
-  <img src="../figures/Convolutional Sequence to Sequence Learning-0.png" style="width:800px"/>
+  <img src="figure1.png" style="width:800px"/>
 </p>
 
 <a href='https://arxiv.org/abs/1705.03122'><img src='https://img.shields.io/badge/dynamic/json?url=https://api.semanticscholar.org/graph/v1/paper/43428880d75b3a14257c3ee9bda054e61eb869c0?fields=citationCount&query=citationCount&label=ICML%202017&prefix=citation%20'/></a>
@@ -15,5 +15,5 @@
 - Attention score is calculated using simple dot product.
 
 <p align="center">
-  <img src="../figures/Convolutional Sequence to Sequence Learning-1.png" style="width:400px"/>
+  <img src="figure2.png" style="width:400px"/>
 </p>

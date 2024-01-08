@@ -2,7 +2,7 @@
 
 <div>
 <p align="center">
-  <img src="../figures/Effective Approaches to Attention-based Neural Machine Translation-0.png" style="width:800px"/>
+  <img src="figure1.png" style="width:800px"/>
 </p>
 
 <a href='https://arxiv.org/abs/1508.04025'><img src='https://img.shields.io/badge/dynamic/json?url=https://api.semanticscholar.org/graph/v1/paper/93499a7c7f699b6630a86fad964536f9423bb6d0?fields=citationCount&query=citationCount&label=EMNLP%202015&prefix=citation%20'/></a>
