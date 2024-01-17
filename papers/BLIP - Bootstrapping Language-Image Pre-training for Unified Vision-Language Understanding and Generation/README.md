@@ -1,4 +1,4 @@
-*19th Jan 2024, Phong Nguyen*
+* 2024, Phong Nguyen*
 
 <div>
 <p align="center">
